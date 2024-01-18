@@ -44,7 +44,7 @@
     
 
 
-    <!--   http://www.semanticweb.org/joel.mba-kouhoue/ontologies/2023/9/BM2O#hasMaintenanceContract -->
+    <!--    http://www.semanticweb.org/joel.mba-kouhoue/ontologies/2023/9/BM2O#hasMaintenanceContract -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/joel.mba-kouhoue/ontologies/2023/9/BM2O#hasMaintenanceContract">
         <owl:inverseOf rdf:resource="http://www.semanticweb.org/joel.mba-kouhoue/ontologies/2023/9/BM2O#isMaintenanceContractOf"/>
